@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>
 
 /**
  *
@@ -6,7 +6,7 @@
  *
  *   * Return: 0 if success.
  *
- *    */
+ **/
 
 int main(void)
 
