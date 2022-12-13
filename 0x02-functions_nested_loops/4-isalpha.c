@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  *  * _isalpha - a function that checks for alphabetic character
  *   * @c: single letter input
@@ -11,5 +11,3 @@ return (1);
 else
 return (0);
 }
-Footer
-© 2022 GitHub, Inc.
