@@ -28,7 +28,7 @@ if (!(tho == 9 && hun == 8))
 putchar(',');
 putchar(32);
 }
-base++;
+bas++;
 }
 }
 }
