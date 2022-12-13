@@ -18,6 +18,7 @@ if (n < 8)
 {
 putchar(',');
 putchar(32);
+}
 i++;
 } while (i < 10);
 }
