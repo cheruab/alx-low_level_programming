@@ -14,10 +14,6 @@ i = 0;
  * * putchar(i);
  * * }
  */
-while (i < 1)
-{
-putchar(i);
-}
 printf("Infinite loop avoided!\n");
 return (0);
 }
